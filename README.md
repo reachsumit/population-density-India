@@ -21,5 +21,5 @@ Indian districts mapped as polygons
 Mapping centroids for each district
 ![Indian districts mapped as polygons](https://cdn-images-1.medium.com/max/1000/1*viLwWvgk0PWIafUQSzLBqQ.png)
 
-Mean centers of population by state, 1910 vs. 2010
+Mean centers of population by state, 2001 vs. 2011
 ![Output](https://cdn-images-1.medium.com/max/1000/1*f50rwoMlTzi7MlXqumvfGg.png)
